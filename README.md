@@ -1,5 +1,7 @@
 # Decision-Oracle
-Research Artifact of ASE 2022 Paper: *Unveiling the Hidden Defection of DNN Testing with Decision-Based Metamorphic Oracle*
+Research Artifact of ASE 2022 Paper: *Unveiling Hidden DNN Defects with Decision-Based Metamorphic Testing*
+
+Extended version: https://arxiv.org/pdf/2210.04942.pdf
 
 The artifact is currently released at: https://sites.google.com/view/decision-oracle
 
